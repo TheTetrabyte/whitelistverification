@@ -1,0 +1,16 @@
+# .
+# Whitelist Verification System
+# Made by: Tetrabyte
+# .
+# https://Tetrabyte.dev
+# .
+# Whitelist toggle
+# If this is set to false the only players that can join are the ones in the whitelist
+# .
+# API URL for verification code system
+# .
+# API Token for verification code system
+# .
+whitelist: true
+api: http://localhost/api
+token: TOKENHERE

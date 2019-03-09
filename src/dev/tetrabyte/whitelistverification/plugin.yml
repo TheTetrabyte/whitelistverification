@@ -1,0 +1,8 @@
+name: WhitelistVerification
+version: 1.0.0
+author: Tetrabyte
+main: dev.tetrabyte.whitelistverification.Main
+commands:
+    wl:
+        description: Whitelist Verification base command
+        usage: /wl
